@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fingerpaint</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_newdrawing">new</string>
+    <string name="title_activity_drawing">DrawingActivity</string>
+    <string name="save">save</string>
+    <string name="check">check</string>
+    <string name="draw">draw</string>
+    <string name="erase">erase</string>
+    <string name="color">color</string>
+    <string name="paint">paint</string>
+    <string name="newdrawing">new drawing</string>
+
+</resources>
